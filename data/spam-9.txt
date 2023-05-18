@@ -1,0 +1,68 @@
+FULLTIME-Hiring-.Net Full Stack Developer || Fulltime || Chicago, IL (remote initially)
+
+Harshit Kumar <harshit.kumar@abc-solutions.com>
+
+
+Hi there,
+
+Hope you are doing great..!!
+
+I have a job role. If interested, please share me your updated resume.                                           
+
+ 
+
+Position: .Net Full Stack Developer
+
+Location: Chicago, IL (remote initially)
+
+Interview Mode: Video and Skype
+
+Type: Fulltime
+
+ 
+
+Please find the Job Description with Key Skills/ Certifications.
+
+Key Skills: .Net Full Stack Developer who has Portfolio Management/ Trading /Financial industry background with experience in App Stack (must have some/all) - .NET Core/React JS/ SQL Server/ Azure Functions/
+
+Looking for a motivated and experienced technical leader to be a key player in changing how we deliver technology for our Asset Management & Investment Services business. This person will have direct and far-reaching impact on Cloud adoption, Agile/DevOps maturity. The role requires working across a broad spectrum of technology, development teams and business partners. There could not be a better time to join our team as we transform how we deliver technology.
+
+Responsibilities
+
+Serve as the primary expert for Azure based solutions to our Implementation and Sales teams. Stay educated and up to date as to the latest changes
+Self-starter who can pick up new technologies/skills, be comfortable with ambiguity and drive initiatives forward
+Identify end to end solutions, leverage best practices and patterns
+Create Proof of Concepts, apply existing technologies in new ways, prove out new approaches and technologies
+Provides technical governance and guidance in partnership with application development teams
+Researches, models, and integrates business and technology architectures to align with business strategy, goals and objectives
+Consults on a wide spectrum of existing and emerging technologies
+Reviews high-risk technology projects for compatibility with IT standards and strategic direction
+Developing new user-facing features using React.js
+Building reusable components and front-end libraries for future use
+Translating designs and wireframes into high quality code.
+
+Basic Qualifications
+
+Bachelor's degree or equivalent work experience
+5+ years’ experience with the concepts, philosophies, and tools behind the design of applications, information and underlying information technologies
+10+ years’ core application development experience. Implementing applications and end to end solutions/designs.
+Preferred Skills/Experience
+
+5+ years coming in a lead Application Architect/Senior Application Developer role
+Strong interpersonal skills with excellent verbal and written communication
+Collaborative style with an ability to achieve consensus
+Proven technical leader
+Design of an application’s code base, layering, componentization, framework selection
+App Stack (must have some/all) - .NET Core/Framework, WPF,WCF, REST, Microservice, Infragistics, React
+Cloud (Desired) – Microsoft Azure
+Delivery (Required) – proven track record with CI/CD, Agile/DevOps, Test Automation
+Experience with popular React.js workflows (e.g., Flux or Redux)
+Database experience (Preferred) - SQL/no-SQL (Oracle/MS SQL), large/complex datasets, data modelling, performance, platform evolution, data delivery
+Messaging Middleware – IBM MQ/ Solace/ Kafka(desirable)
+End to end system solutioning/exposure…Security, Performance, Availability, Scalability.
+Information Security and Financial Services domain knowledge a big plus
+Thanks & Regards
+
+Harshit Kumar
+ABC Solutions
+

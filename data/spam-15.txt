@@ -1,0 +1,50 @@
+Job UI developer with some UX experience is shared with you
+
+Priscilla Sheryl J priscilla.j@diamondhack.com via xx.yz.com 
+
+to me
+
+Hi ,
+
+This is Priscilla from Diamondhack. 
+We have a Job Opportunity for the role of "UI Developer @ Jersey city, NJ – Contract (Onsite)" 
+ 
+I have shared the Job Description for your reference with this mail. Kindly have a look at it and if you are interested,
+
+please send me your Updated Resume along with Best Time & Number to reach you, look forward to working with you.
+
+Job Title : UI Developer 
+
+Experience : 8 Years
+
+Job Location: Jersey city, NJ
+
+Job Type: Contract (Onsite)
+
+Job Description:
+
+Technical expectations:
+
+Strong JavaScript, Typescript, CSS, HTML & Browser Developer tools
+Strong knowledge of Javascript framework – Angular 7
+Strong knowledge of JavaScript grids – Ag-Grid and how to use it with Angular
+Strong knowledge of Async code (Promise, Callbacks, Event Loops)
+Strong knowledge and experience on Angular Unit testing
+Expert at one IDE of choice (Visual Studio Code, or WebStorm)
+Strong knowledge of .NET framework, especially Web Api development in .NET 4.5
+Working knowledge of Integration testing, Automated testing and configure automated tests in Atlassian tool – Bamboo
+Working knowledge of Oracle PL/SQL
+Decent knowledge of Agile development methodology, like Scrum, Story estimation etc.
+ 
+Non-technical expectations:
+
+Interact with Business stakeholders frequently to understand the initial business requirements and expectations, and then document and explain the requirements in perspective of technical implementation.
+Conduct review meetings with the development team to discuss implementation strategy and accommodate changes or enhancements that would impact requirements scope and/or the delivery timelines.
+Create a plan and work scope as Sprints (As per Agile software development methodology) for day-to-day activities with due dates.
+Conduct frequent team meetings to review the task assignment to individual team members. Break down the business requirements to technical development tasks and manage risk or issues while in the technical development phase by providing guidance and best practices approaches.
+Manage and prioritize post-production deployment issues by creating a plan for delegation of issues to the Production support team and monitor the progress of resolution.
+Monitor the progress of project plan execution, and address any issues or concerns like slippage on delivery deadlines etc.
+ 
+Thanks & regards,
+
+Priscilla Sheryl J | Technical Recruiter

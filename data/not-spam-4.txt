@@ -1,0 +1,19 @@
+Foobar Engineering Blog
+editor@foobar.com
+
+
+Social Network Analysis Using Power BI and R: A Custom Visuals Guide
+
+Social network analysis is gaining traction as an important tool for businesses. Microsoft's Power BI is one of the most popular software solutions used to perform social network analysis.
+
+In this article, freelance developer Bharat Garg explores how to create custom Power BI visuals in R to achieve more compelling and flexible results.
+
+Continue Reading
+ 	 	 
+About the Author
+bharat-garg
+Bharat Garg
+Data Scientist and Developer
+Bharat excels at designing and developing interactive reports and tools to facilitate decision-making. He has worked with small startups and large corporations, such as Comcast and Bank of America.
+
+

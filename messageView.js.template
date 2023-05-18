@@ -1,0 +1,65 @@
+const SPACE = " ";
+const SEMI = ";";
+const DASH = "-";
+const DOT = ".";
+const AT = "@";
+
+const DEBUGGING = true;
+
+function debug( str ) {
+  if( DEBUGGING ) console.log( str );
+}
+
+function replaceWhiteSpace( str ) {
+  return str.replace( /\s/g, DASH );
+}
+
+function removeEmpties( arr ) {
+  return arr.filter( notMt );
+}
+
+function notMt( element ) {
+  return element && element.trim().length > 0;
+}
+
+// Return how many of the strings in msg contain a phrase in phr
+function phraseIn( phr, msg, max ) {
+  var count = 0;
+  for( let i in msg )
+    for( let j in phr ) {
+      // Don't waste time going through the whole of phr if unnecessary
+      if( count >= max ) return count;
+      let m = replaceWhiteSpace( msg[ i ] )
+      let p = replaceWhiteSpace( phr[ j ] )
+    //  if( m.includes( "ruby" ) && p.includes( "ruby" ) ) 
+    debug( "m->" + m + "<-   p->" + p + "<-" );
+      if( m.includes( p ) ) count ++ ;
+    }
+  return count;
+}
+
+// Names have to be dealt with differently from phrases
+function nameIn( nms, msg, max ) {
+  var count = 0;
+  for( let i in msg ) {
+    let words = msg[ i ].split( /\s+/ );
+    words = words.filter( item => item);
+    for( let j in nms ) {
+      // Don't waste time going through the whole of nms if unnecessary
+      if( count >= max ) return count;
+      for( let w in words )
+        if( nms[ j ] == words[ w ] ) count ++ ;
+    }
+  }
+  return count;
+}
+
+/* ANALYZE FUNCTION */
+
+InboxSDK.load(2, 'sdk_RecruiterFilter_0d0600ccc2').then(function(sdk){
+
+  sdk.Conversations.registerMessageViewHandler(function(messageView) {
+    analyze( messageView );
+  });
+
+});

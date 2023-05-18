@@ -1,0 +1,100 @@
+100% Remote opportunity - Java Full Stack Lead-Fulltime
+
+Pranaav S pranaav.s@diamondrick.com via mg1.ceipalmr.com 
+to me
+
+Hello Rod Mclaughlin
+ 
+My name is Pranaav S and I am a Staffing Specialist at Diamondric Inc. I am reaching out to you on an exciting job opportunity with one of our clients.
+ 
+Job Title - Java full Stack Lead
+
+ Location: Remote
+
+Full time Employment
+
+ 
+
+  Mandatory skill - Java, Micro services, Spring boot, Spring batch, AWS Cloud 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We are looking for a Java developer responsible for building Java applications. This includes anything between complex groups of back-end services and their client-end (desktop and mobile) counterparts. Your primary responsibility will be to design and develop these applications, and to coordinate with the rest of the team working on different layers of the infrastructure. Thus, a commitment to collaborative problem solving, sophisticated design, and product quality is essential.
+
+ 
+
+Responsibilities
+
+ 
+
+- Translate application storyboards and use cases into functional applications
+
+- Design, build, and maintain efficient, reusable, and reliable Java code
+
+- Ensure the best possible performance, quality, and responsiveness of the applications
+
+- Identify bottlenecks and bugs, and devise solutions to these problems
+
+- Help maintain code quality, organization, and automatization
+
+- {{Add other responsibilities here that are relevant}}
+
+ 
+
+Skills
+
+ 
+
+- Proficient in Java, with a good knowledge of its ecosystems
+
+- Solid understanding of object-oriented programming
+
+- Familiar with various design and architectural patterns
+
+- Skill for writing reusable Java libraries
+
+- Knowledge of concurrency patterns in Java
+
+- Familiarity with concepts of MVC, JDBC, and RESTful
+
+- Experience with popular web application frameworks, such as Play and Spark
+
+- Familiarity with Java GUI frameworks {{such as Swing, SWT, and AWT depending on project requirements}}
+
+ 
+
+- Knack for writing clean, readable Java code
+
+- Experience with both external and embedded databases
+
+- Understanding fundamental design principles behind a scalable application
+
+- Basic understanding of the class loading mechanism in Java
+
+- Creating database schemas that represent and support business processes
+
+- Basic understanding of JVM, its limitations, weaknesses, and workarounds
+
+- Implementing automated testing platforms and unit tests
+
+- Proficient understanding of code versioning tools, such as Git
+
+- Familiarity with build tools such as Ant, Maven, and Gradle
+
+- Familiarity with continuous integration
+
+- {{Make sure to mention other frameworks, libraries, or any other technology relevant to your project}}
+
+- {{List education level or certification you require}}
+
+ 
+
+Thanks & Regards
+Pranaav S |US IT Recruiter
+Phone: 17327863777

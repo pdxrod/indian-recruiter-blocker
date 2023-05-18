@@ -1,0 +1,34 @@
+Job Python Developer(Backend) is shared with you
+
+My name is Lokesh Chauhan and I am a Staffing Specialist at RICEFW Technologies Inc. I am reaching out to you on an exciting job opportunity with one of our clients.
+ 
+Job Title	Python Developer(Backend)
+Location	Remote
+Client	wxyz tech LLC
+Client Job ID	N/A
+Job Description	
+Write and test high-quality, maintainable code
+
+Gather technical and functional requirements of product
+Scope, design and own project delivery
+Identify and manage appropriate level of communication with key stakeholders throughout the project
+Ensure testing coverage, sufficient documentation, timely delivery and proper maintenance of final product
+Perform support and maintenance activities of existing systems including but not limited to bug fixes, library upgrades, back-end tools to support the Product Operations team
+Partner with cross cutting teams to ensure a complete end to end customer experience
+
+What you'll bring:
+
+Minimum 10+ Years of IT work experience.
+Minimum of 4 years of work experience in Python, Java, or other major object-oriented languages, e.g., C++
+Familiarity with object-oriented and functional programming concepts and design patterns
+Experience working on architectures involving one or more of the following concepts and their implementation: XML/JSON message processing, REST API, Object Relational Mapping, asynchronous web services and distributed message queues
+Experience with Agile development practices (Scrum, continuous integration etc..)
+Experience working on scalable architecture which can handle high volumes of data required for build out of our cloud-based platform
+Strong analytical skills and algorithms knowledge
+User first approach, comfortable with rapid iterations
+Experience writing tests for written code (unit tests, regression tests, integration tests etc.)
+Experience with version control system (Git, Subversion, CVS etc.)
+Quick learner and keen to learn new tools, languages, and technologies
+ 
+Lokesh Chauhan | Technical Recruiter
+T: 5553309999- | lokesh@zyxwtech.com

@@ -1,0 +1,52 @@
+Jessica J Jessica@ccc.com
+to Jessica
+
+Hello,
+
+Hope you’re doing well.
+
+ 
+
+I have an opportunity with my leading client and the details are as follows:
+
+ 
+
+Title: Software engineer lll
+
+Location: Hillsboro OR 97124
+
+Duration: Long term contract (Possible of extension)
+
+ 
+
+Job Description
+
+Perform all phases of software development including design, implementation, testing, integration, maintenance of the Workflow and Factory Automation software for the company's Electron Microscopes
+
+[*] Development and support of GUI and instrument control and automation software
+
+[*] Proficient in developing with C# and .NET technologies
+
+[*] Knowledge of current software development best practices including requirements generation, design documentation, and unit testing
+
+[*] Excellent interpersonal and communication skills to network across functional groups.
+
+[*] 2-5 years of experience in product development or related field
+
+[*] BS in Computer Science or equivalent
+
+ 
+
+Preferred Qualifications
+
+[*] MS in Computer Science
+
+[*] Demonstrated expertise with Web development in both frontend and backend environments (e.g. Angular, Blazor, WebAPI) and interacting with data layers and APIs (e.g. OpenAPI, Signal-R, gRPC) a plus
+
+[*] Hands-on experience building and deploying containerized (e.g. Docker, Kubernetes, Helm) a plus
+
+ 
+
+Best Regards,
+
+Jessica J

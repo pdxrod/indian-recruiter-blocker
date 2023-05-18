@@ -1,0 +1,37 @@
+Hello from John Smith
+
+j.smith@jsmith.com
+
+Hi Jim,
+
+I have a job opportunity which you may be interested in.
+
+Position: Ruby on Rails Developer
+
+Job Location: Plano TX
+
+Duration: Long Term Contract
+
+Client: Bank of China
+Manager: Aabid Johnson
+Team Lead: Zuveb McCartney
+
+Overall 7+years of Experience of SDLC and 5+ years of experience with Ruby on Rails development.
+
+Strong knowledge of Data Structures, Algorithms, and Design Patterns.
+
+Experience with RESTful APIs.
+
+Experience working in a test-driven environment.
+
+Comfortable doing pair programming.
+
+Ability and desire to work with multiple technologies - Java, RoR, GraphQL etc..
+
+Please reply with your resume and expected pay rate and earliest possible start date.
+
+Thanks & Regards,
+
+John Smith
+
+Recruiting Manager

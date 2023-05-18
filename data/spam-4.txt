@@ -1,0 +1,28 @@
+UI Tech Lead || fully remote
+
+Prajjual Tiwari prajjual.t@saxonglobal.com
+
+Hi
+Please share your resume if you are interested in the below role
+
+UI Tech Lead || fully remote
+
+Long term contract
+
+
+This person is 60% hands on development and 40% leadership/mentoring others so they need to be very high level. Focus is on the front end with React and Javascript.
+
+
+Candidates need to be 60-70% hands-on development, 30-40% mentoring/leadership. Over time that might change as the teams are built up. All need strong engineering fundamentals and ability to define and uphold development best practices
+
+Don't really have anyone strong in the UI space right now. Ideally would want someone with a little API experience but fully UI is okay.
+
+Requirements:
+
+Javascript
+React.js
+Redux
+HTML5
+CSS3
+UI testing experience/frameworks: Jest, Jasmine, Karma, etc. Not just running a test but need to understand testing strategy, test pyramids. Unit, integration, regression testing.
+Experience working on modern progressive web applications

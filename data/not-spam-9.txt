@@ -1,0 +1,38 @@
+john.smith@foo.com John Smith
+
+Dear Roderick
+
+I am reaching out to you on an exciting job opportunity with one of our clients.
+
+Job Title : Software Engineer - Frontend (Lead/Senior)
+
+location : 100% Remote
+
+Responsibilities :
+Build responsive and performant user interfaces based on user stories
+Work closely with the UX designer to convert the designs into reusable components
+Design and evolve component libraries that will enable our teams to iterate on a product quickly
+Cross-collaborate with backend engineers, product managers, designers, and QA in an autonomous, supportive team environment
+Manage individual project priorities, deadlines, and deliverables
+Takes initiative to understand, measure, and solve the most important business problems with holistic and sustainable solutions
+Define, implement, and enforce standards for best practices in software development
+Coach and mentor junior developers and introduce the team to new technology trends in industry
+
+Experience :
+Experience with UI app framework/libraries - React, Angular, Vue
+Typescript/JavaScript, HTML, CSS, Bootstrap
+Experience building single page web application that perform and scale well in modern, legacy and mobile browsers
+Experience integrating with APIs – RESTful (JSON), SOAP (XML)
+Experience with front end testing frameworks - Jest, Jasmine, Karma
+Experience with building an accessible web experience (508 compliance)
+Knowledge of industry best practices for code quality, architecture, accessibility, and usability
+A passion for user-centered design, web standards, usability, and clean code
+Experience working in an Agile environment and with supporting tools such as Jira, Confluence, Git repository
+Demonstrated competency in enterprise design patterns, object-oriented design, development and implementation of complex applications or
+components in hybrid environments (Cloud/On-Premise)
+Demonstrated competency in accurately identifying the scope of work and preparing thorough, accurate and detailed schedule estimates
+(Optional) Custom UI development within low code platform (ServiceNow, Salesforce, etc.)
+
+Regards,
+
+John Smith
